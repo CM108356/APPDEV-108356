@@ -58,7 +58,7 @@ To write code in Python, you can use any text editor or integrated development e
 Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio
 Code.
 
-## Python Libraries
+### Python Libraries
 ----
 Python has a wide range of libraries available that provide additional functionality for different
 tasks. Some of the most popular libraries include:
@@ -70,7 +70,7 @@ tasks. Some of the most popular libraries include:
 | **Matplotlib** | A library for creating visualizations and plots.|
 | **Scikit-learn**   | A library for machine learning and data mining.  |
 
-## Python Functions
+### Python Functions
 ----
 Python functions are blocks of code that can be reused multiple times. A function is defined using
 the ```def``` keyword, followed by the function name and a set of parentheses. The code inside the
@@ -86,7 +86,7 @@ greet("John")
 
 When the code is run, it will print "Hello, John".
 
-## Built-in Functions
+### Built-in Functions
 ----
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
 as:
